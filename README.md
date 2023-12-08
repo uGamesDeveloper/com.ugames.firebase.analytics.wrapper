@@ -1,0 +1,1 @@
+# com.ugames.firebase.analytics.wrapper
